@@ -1,4 +1,5 @@
-
+#Luis maldonado, Nataly agudelo, Sebastian Hernandez
+# grupo 2 tecno. en sistemas informatico
 
 def sumar(a, b):
     return a + b
