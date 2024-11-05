@@ -13,7 +13,7 @@ def dividir(a, b):
     if b == 0:
         print("Error: No se puede dividir por cero.")
         return None
-    return 
+    return a / b
 
 
 
